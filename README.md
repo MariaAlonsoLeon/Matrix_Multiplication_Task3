@@ -21,6 +21,8 @@ This project investigates the optimization of matrix multiplication, a critical 
 
 The project implements and analyzes multiple matrix multiplication algorithms using a modular, scalable approach. The Java implementation is structured using the Maven framework, ensuring maintainability and precise performance measurements, while Python complements the analysis with analogous implementations and GPU-based techniques.
 
+It is important to note that the project in Python is called 'ParallelAndVectorized' and in Java 'ParallelAndVectorizedMatrices'.
+
 #### Java Implementation
 
 ##### Interfaces:
@@ -73,6 +75,8 @@ Includes implementations analogous to Java and additional GPU-based optimization
 - `StreamMatrixMultiplication`
 
 This comprehensive implementation ensures scalability, maintainability, and precise benchmarking across different configurations.
+
+Note: As explained in the paper, it is important to note that although the stream algorithm is neither a sequential nor a vectorized algorithm, it is included in this category because it does not require specifying the number of threads, as it calculates it automatically.
 
 ## Libraries and Dependencies
 ### Java

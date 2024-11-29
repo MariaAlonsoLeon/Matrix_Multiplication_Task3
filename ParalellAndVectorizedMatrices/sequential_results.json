@@ -1,0 +1,811 @@
+[ {
+  "Before" : {
+    "ActiveThreads" : 3,
+    "UsedMemory" : 18946792,
+    "CPU Cores (Physical)" : 10,
+    "AvailableProcessors" : 16,
+    "CPU Frequency (MHz)" : 2688000.0,
+    "TotalMemory" : 532676608,
+    "CPU Usage (%)" : 4.158258098778545,
+    "CPU Cores (Logical)" : 16,
+    "FreeMemory" : 513729816,
+    "MaxMemory" : 8493465600
+  },
+  "MatrixSize" : 64,
+  "After" : {
+    "ActiveThreads" : 3,
+    "UsedMemory" : 24045208,
+    "CPU Cores (Physical)" : 10,
+    "AvailableProcessors" : 16,
+    "CPU Frequency (MHz)" : 2688000.0,
+    "TotalMemory" : 532676608,
+    "CPU Usage (%)" : 0.7193423155971682,
+    "CPU Cores (Logical)" : 16,
+    "FreeMemory" : 508631400,
+    "MaxMemory" : 8493465600
+  },
+  "Algorithm" : "BasicMatrixMultiplication"
+}, {
+  "Before" : {
+    "ActiveThreads" : 3,
+    "UsedMemory" : 13938864,
+    "CPU Cores (Physical)" : 10,
+    "AvailableProcessors" : 16,
+    "CPU Frequency (MHz)" : 2688000.0,
+    "TotalMemory" : 532676608,
+    "CPU Usage (%)" : 1.4393499709808473,
+    "CPU Cores (Logical)" : 16,
+    "FreeMemory" : 518737744,
+    "MaxMemory" : 8493465600
+  },
+  "MatrixSize" : 128,
+  "After" : {
+    "ActiveThreads" : 3,
+    "UsedMemory" : 19302632,
+    "CPU Cores (Physical)" : 10,
+    "AvailableProcessors" : 16,
+    "CPU Frequency (MHz)" : 2688000.0,
+    "TotalMemory" : 532676608,
+    "CPU Usage (%)" : 0.7154304029304029,
+    "CPU Cores (Logical)" : 16,
+    "FreeMemory" : 513373976,
+    "MaxMemory" : 8493465600
+  },
+  "Algorithm" : "BasicMatrixMultiplication"
+}, {
+  "Before" : {
+    "ActiveThreads" : 3,
+    "UsedMemory" : 25380072,
+    "CPU Cores (Physical)" : 10,
+    "AvailableProcessors" : 16,
+    "CPU Frequency (MHz)" : 2688000.0,
+    "TotalMemory" : 532676608,
+    "CPU Usage (%)" : 1.1161907023689366,
+    "CPU Cores (Logical)" : 16,
+    "FreeMemory" : 507296536,
+    "MaxMemory" : 8493465600
+  },
+  "MatrixSize" : 256,
+  "After" : {
+    "ActiveThreads" : 3,
+    "UsedMemory" : 31115128,
+    "CPU Cores (Physical)" : 10,
+    "AvailableProcessors" : 16,
+    "CPU Frequency (MHz)" : 2688000.0,
+    "TotalMemory" : 532676608,
+    "CPU Usage (%)" : 0.7278867990450125,
+    "CPU Cores (Logical)" : 16,
+    "FreeMemory" : 501561480,
+    "MaxMemory" : 8493465600
+  },
+  "Algorithm" : "BasicMatrixMultiplication"
+}, {
+  "Before" : {
+    "ActiveThreads" : 3,
+    "UsedMemory" : 41430680,
+    "CPU Cores (Physical)" : 10,
+    "AvailableProcessors" : 16,
+    "CPU Frequency (MHz)" : 2688000.0,
+    "TotalMemory" : 532676608,
+    "CPU Usage (%)" : 0.5429446080979611,
+    "CPU Cores (Logical)" : 16,
+    "FreeMemory" : 491245928,
+    "MaxMemory" : 8493465600
+  },
+  "MatrixSize" : 512,
+  "After" : {
+    "ActiveThreads" : 3,
+    "UsedMemory" : 49186984,
+    "CPU Cores (Physical)" : 10,
+    "AvailableProcessors" : 16,
+    "CPU Frequency (MHz)" : 2688000.0,
+    "TotalMemory" : 532676608,
+    "CPU Usage (%)" : 1.050355267222737,
+    "CPU Cores (Logical)" : 16,
+    "FreeMemory" : 483489624,
+    "MaxMemory" : 8493465600
+  },
+  "Algorithm" : "BasicMatrixMultiplication"
+}, {
+  "Before" : {
+    "ActiveThreads" : 3,
+    "UsedMemory" : 38367576,
+    "CPU Cores (Physical)" : 10,
+    "AvailableProcessors" : 16,
+    "CPU Frequency (MHz)" : 2688000.0,
+    "TotalMemory" : 532676608,
+    "CPU Usage (%)" : 1.5078510288532396,
+    "CPU Cores (Logical)" : 16,
+    "FreeMemory" : 494309032,
+    "MaxMemory" : 8493465600
+  },
+  "MatrixSize" : 1024,
+  "After" : {
+    "ActiveThreads" : 3,
+    "UsedMemory" : 57189328,
+    "CPU Cores (Physical)" : 10,
+    "AvailableProcessors" : 16,
+    "CPU Frequency (MHz)" : 2688000.0,
+    "TotalMemory" : 532676608,
+    "CPU Usage (%)" : 0.6442080378250591,
+    "CPU Cores (Logical)" : 16,
+    "FreeMemory" : 475487280,
+    "MaxMemory" : 8493465600
+  },
+  "Algorithm" : "BasicMatrixMultiplication"
+}, {
+  "Before" : {
+    "ActiveThreads" : 3,
+    "UsedMemory" : 61383656,
+    "CPU Cores (Physical)" : 10,
+    "AvailableProcessors" : 16,
+    "CPU Frequency (MHz)" : 2688000.0,
+    "TotalMemory" : 532676608,
+    "CPU Usage (%)" : 0.8298507462686568,
+    "CPU Cores (Logical)" : 16,
+    "FreeMemory" : 471292952,
+    "MaxMemory" : 8493465600
+  },
+  "MatrixSize" : 64,
+  "After" : {
+    "ActiveThreads" : 3,
+    "UsedMemory" : 66600184,
+    "CPU Cores (Physical)" : 10,
+    "AvailableProcessors" : 16,
+    "CPU Frequency (MHz)" : 2688000.0,
+    "TotalMemory" : 532676608,
+    "CPU Usage (%)" : 1.031111111111111,
+    "CPU Cores (Logical)" : 16,
+    "FreeMemory" : 466076424,
+    "MaxMemory" : 8493465600
+  },
+  "Algorithm" : "AtomicMatrixMultiplication"
+}, {
+  "Before" : {
+    "ActiveThreads" : 3,
+    "UsedMemory" : 72970600,
+    "CPU Cores (Physical)" : 10,
+    "AvailableProcessors" : 16,
+    "CPU Frequency (MHz)" : 2688000.0,
+    "TotalMemory" : 532676608,
+    "CPU Usage (%)" : 1.3002505069784087,
+    "CPU Cores (Logical)" : 16,
+    "FreeMemory" : 459706008,
+    "MaxMemory" : 8493465600
+  },
+  "MatrixSize" : 128,
+  "After" : {
+    "ActiveThreads" : 3,
+    "UsedMemory" : 78160880,
+    "CPU Cores (Physical)" : 10,
+    "AvailableProcessors" : 16,
+    "CPU Frequency (MHz)" : 2688000.0,
+    "TotalMemory" : 532676608,
+    "CPU Usage (%)" : 0.4617570447549135,
+    "CPU Cores (Logical)" : 16,
+    "FreeMemory" : 454515728,
+    "MaxMemory" : 8493465600
+  },
+  "Algorithm" : "AtomicMatrixMultiplication"
+}, {
+  "Before" : {
+    "ActiveThreads" : 3,
+    "UsedMemory" : 41290680,
+    "CPU Cores (Physical)" : 10,
+    "AvailableProcessors" : 16,
+    "CPU Frequency (MHz)" : 2688000.0,
+    "TotalMemory" : 532676608,
+    "CPU Usage (%)" : 0.8094144661308841,
+    "CPU Cores (Logical)" : 16,
+    "FreeMemory" : 491385928,
+    "MaxMemory" : 8493465600
+  },
+  "MatrixSize" : 256,
+  "After" : {
+    "ActiveThreads" : 3,
+    "UsedMemory" : 47064752,
+    "CPU Cores (Physical)" : 10,
+    "AvailableProcessors" : 16,
+    "CPU Frequency (MHz)" : 2688000.0,
+    "TotalMemory" : 532676608,
+    "CPU Usage (%)" : 0.5472035021024135,
+    "CPU Cores (Logical)" : 16,
+    "FreeMemory" : 485611856,
+    "MaxMemory" : 8493465600
+  },
+  "Algorithm" : "AtomicMatrixMultiplication"
+}, {
+  "Before" : {
+    "ActiveThreads" : 3,
+    "UsedMemory" : 56413608,
+    "CPU Cores (Physical)" : 10,
+    "AvailableProcessors" : 16,
+    "CPU Frequency (MHz)" : 2688000.0,
+    "TotalMemory" : 532676608,
+    "CPU Usage (%)" : 0.802154357417063,
+    "CPU Cores (Logical)" : 16,
+    "FreeMemory" : 476263000,
+    "MaxMemory" : 8493465600
+  },
+  "MatrixSize" : 512,
+  "After" : {
+    "ActiveThreads" : 3,
+    "UsedMemory" : 62881776,
+    "CPU Cores (Physical)" : 10,
+    "AvailableProcessors" : 16,
+    "CPU Frequency (MHz)" : 2688000.0,
+    "TotalMemory" : 532676608,
+    "CPU Usage (%)" : 1.584051724137931,
+    "CPU Cores (Logical)" : 16,
+    "FreeMemory" : 469794832,
+    "MaxMemory" : 8493465600
+  },
+  "Algorithm" : "AtomicMatrixMultiplication"
+}, {
+  "Before" : {
+    "ActiveThreads" : 3,
+    "UsedMemory" : 84813456,
+    "CPU Cores (Physical)" : 10,
+    "AvailableProcessors" : 16,
+    "CPU Frequency (MHz)" : 2688000.0,
+    "TotalMemory" : 532676608,
+    "CPU Usage (%)" : 0.8028041610131162,
+    "CPU Cores (Logical)" : 16,
+    "FreeMemory" : 447863152,
+    "MaxMemory" : 8493465600
+  },
+  "MatrixSize" : 1024,
+  "After" : {
+    "ActiveThreads" : 3,
+    "UsedMemory" : 73585424,
+    "CPU Cores (Physical)" : 10,
+    "AvailableProcessors" : 16,
+    "CPU Frequency (MHz)" : 2688000.0,
+    "TotalMemory" : 532676608,
+    "CPU Usage (%)" : 0.8351727017836902,
+    "CPU Cores (Logical)" : 16,
+    "FreeMemory" : 459091184,
+    "MaxMemory" : 8493465600
+  },
+  "Algorithm" : "AtomicMatrixMultiplication"
+}, {
+  "Before" : {
+    "ActiveThreads" : 3,
+    "UsedMemory" : 78910208,
+    "CPU Cores (Physical)" : 10,
+    "AvailableProcessors" : 16,
+    "CPU Frequency (MHz)" : 2688000.0,
+    "TotalMemory" : 532676608,
+    "CPU Usage (%)" : 1.1982763709344195,
+    "CPU Cores (Logical)" : 16,
+    "FreeMemory" : 453766400,
+    "MaxMemory" : 8493465600
+  },
+  "MatrixSize" : 64,
+  "After" : {
+    "ActiveThreads" : 3,
+    "UsedMemory" : 85365512,
+    "CPU Cores (Physical)" : 10,
+    "AvailableProcessors" : 16,
+    "CPU Frequency (MHz)" : 2688000.0,
+    "TotalMemory" : 532676608,
+    "CPU Usage (%)" : 0.45933690595371296,
+    "CPU Cores (Logical)" : 16,
+    "FreeMemory" : 447311096,
+    "MaxMemory" : 8493465600
+  },
+  "Algorithm" : "VectorizedMatrixMultiplication"
+}, {
+  "Before" : {
+    "ActiveThreads" : 3,
+    "UsedMemory" : 91493136,
+    "CPU Cores (Physical)" : 10,
+    "AvailableProcessors" : 16,
+    "CPU Frequency (MHz)" : 2688000.0,
+    "TotalMemory" : 532676608,
+    "CPU Usage (%)" : 0.45841519318926005,
+    "CPU Cores (Logical)" : 16,
+    "FreeMemory" : 441183472,
+    "MaxMemory" : 8493465600
+  },
+  "MatrixSize" : 128,
+  "After" : {
+    "ActiveThreads" : 3,
+    "UsedMemory" : 113595112,
+    "CPU Cores (Physical)" : 10,
+    "AvailableProcessors" : 16,
+    "CPU Frequency (MHz)" : 2688000.0,
+    "TotalMemory" : 532676608,
+    "CPU Usage (%)" : 1.192655133730885,
+    "CPU Cores (Logical)" : 16,
+    "FreeMemory" : 419081496,
+    "MaxMemory" : 8493465600
+  },
+  "Algorithm" : "VectorizedMatrixMultiplication"
+}, {
+  "Before" : {
+    "ActiveThreads" : 3,
+    "UsedMemory" : 118919928,
+    "CPU Cores (Physical)" : 10,
+    "AvailableProcessors" : 16,
+    "CPU Frequency (MHz)" : 2688000.0,
+    "TotalMemory" : 532676608,
+    "CPU Usage (%)" : 0.9382657025040338,
+    "CPU Cores (Logical)" : 16,
+    "FreeMemory" : 413756680,
+    "MaxMemory" : 8493465600
+  },
+  "MatrixSize" : 256,
+  "After" : {
+    "ActiveThreads" : 3,
+    "UsedMemory" : 175690928,
+    "CPU Cores (Physical)" : 10,
+    "AvailableProcessors" : 16,
+    "CPU Frequency (MHz)" : 2688000.0,
+    "TotalMemory" : 532676608,
+    "CPU Usage (%)" : 1.2694016502221452,
+    "CPU Cores (Logical)" : 16,
+    "FreeMemory" : 356985680,
+    "MaxMemory" : 8493465600
+  },
+  "Algorithm" : "VectorizedMatrixMultiplication"
+}, {
+  "Before" : {
+    "ActiveThreads" : 3,
+    "UsedMemory" : 73301152,
+    "CPU Cores (Physical)" : 10,
+    "AvailableProcessors" : 16,
+    "CPU Frequency (MHz)" : 2688000.0,
+    "TotalMemory" : 532676608,
+    "CPU Usage (%)" : 2.764705882352941,
+    "CPU Cores (Logical)" : 16,
+    "FreeMemory" : 459375456,
+    "MaxMemory" : 8493465600
+  },
+  "MatrixSize" : 512,
+  "After" : {
+    "ActiveThreads" : 3,
+    "UsedMemory" : 188224128,
+    "CPU Cores (Physical)" : 10,
+    "AvailableProcessors" : 16,
+    "CPU Frequency (MHz)" : 2688000.0,
+    "TotalMemory" : 532676608,
+    "CPU Usage (%)" : 1.7043394173818445,
+    "CPU Cores (Logical)" : 16,
+    "FreeMemory" : 344452480,
+    "MaxMemory" : 8493465600
+  },
+  "Algorithm" : "VectorizedMatrixMultiplication"
+}, {
+  "Before" : {
+    "ActiveThreads" : 3,
+    "UsedMemory" : 211292800,
+    "CPU Cores (Physical)" : 10,
+    "AvailableProcessors" : 16,
+    "CPU Frequency (MHz)" : 2688000.0,
+    "TotalMemory" : 532676608,
+    "CPU Usage (%)" : 2.764712630492142,
+    "CPU Cores (Logical)" : 16,
+    "FreeMemory" : 321383808,
+    "MaxMemory" : 8493465600
+  },
+  "MatrixSize" : 1024,
+  "After" : {
+    "ActiveThreads" : 3,
+    "UsedMemory" : 231899456,
+    "CPU Cores (Physical)" : 10,
+    "AvailableProcessors" : 16,
+    "CPU Frequency (MHz)" : 2688000.0,
+    "TotalMemory" : 767557632,
+    "CPU Usage (%)" : 0.9219858156028369,
+    "CPU Cores (Logical)" : 16,
+    "FreeMemory" : 535658176,
+    "MaxMemory" : 8493465600
+  },
+  "Algorithm" : "VectorizedMatrixMultiplication"
+}, {
+  "Before" : {
+    "ActiveThreads" : 3,
+    "UsedMemory" : 236093760,
+    "CPU Cores (Physical)" : 10,
+    "AvailableProcessors" : 16,
+    "CPU Frequency (MHz)" : 2688000.0,
+    "TotalMemory" : 767557632,
+    "CPU Usage (%)" : 0.7313908222248436,
+    "CPU Cores (Logical)" : 16,
+    "FreeMemory" : 531463872,
+    "MaxMemory" : 8493465600
+  },
+  "MatrixSize" : 64,
+  "After" : {
+    "ActiveThreads" : 3,
+    "UsedMemory" : 242385216,
+    "CPU Cores (Physical)" : 10,
+    "AvailableProcessors" : 16,
+    "CPU Frequency (MHz)" : 2688000.0,
+    "TotalMemory" : 767557632,
+    "CPU Usage (%)" : 0.5669823270402317,
+    "CPU Cores (Logical)" : 16,
+    "FreeMemory" : 525172416,
+    "MaxMemory" : 8493465600
+  },
+  "Algorithm" : "OptimizedVectorizedMatrixMultiplication"
+}, {
+  "Before" : {
+    "ActiveThreads" : 3,
+    "UsedMemory" : 248676672,
+    "CPU Cores (Physical)" : 10,
+    "AvailableProcessors" : 16,
+    "CPU Frequency (MHz)" : 2688000.0,
+    "TotalMemory" : 767557632,
+    "CPU Usage (%)" : 0.8368694012258369,
+    "CPU Cores (Logical)" : 16,
+    "FreeMemory" : 518880960,
+    "MaxMemory" : 8493465600
+  },
+  "MatrixSize" : 128,
+  "After" : {
+    "ActiveThreads" : 3,
+    "UsedMemory" : 269648192,
+    "CPU Cores (Physical)" : 10,
+    "AvailableProcessors" : 16,
+    "CPU Frequency (MHz)" : 2688000.0,
+    "TotalMemory" : 767557632,
+    "CPU Usage (%)" : 1.0200429491768075,
+    "CPU Cores (Logical)" : 16,
+    "FreeMemory" : 497909440,
+    "MaxMemory" : 8493465600
+  },
+  "Algorithm" : "OptimizedVectorizedMatrixMultiplication"
+}, {
+  "Before" : {
+    "ActiveThreads" : 3,
+    "UsedMemory" : 275939648,
+    "CPU Cores (Physical)" : 10,
+    "AvailableProcessors" : 16,
+    "CPU Frequency (MHz)" : 2688000.0,
+    "TotalMemory" : 767557632,
+    "CPU Usage (%)" : 0.936307251908397,
+    "CPU Cores (Logical)" : 16,
+    "FreeMemory" : 491617984,
+    "MaxMemory" : 8493465600
+  },
+  "MatrixSize" : 256,
+  "After" : {
+    "ActiveThreads" : 3,
+    "UsedMemory" : 416448832,
+    "CPU Cores (Physical)" : 10,
+    "AvailableProcessors" : 16,
+    "CPU Frequency (MHz)" : 2688000.0,
+    "TotalMemory" : 767557632,
+    "CPU Usage (%)" : 0.5396935933147632,
+    "CPU Cores (Logical)" : 16,
+    "FreeMemory" : 351108800,
+    "MaxMemory" : 8493465600
+  },
+  "Algorithm" : "OptimizedVectorizedMatrixMultiplication"
+}, {
+  "Before" : {
+    "ActiveThreads" : 3,
+    "UsedMemory" : 429031744,
+    "CPU Cores (Physical)" : 10,
+    "AvailableProcessors" : 16,
+    "CPU Frequency (MHz)" : 2688000.0,
+    "TotalMemory" : 767557632,
+    "CPU Usage (%)" : 1.3692271988860523,
+    "CPU Cores (Logical)" : 16,
+    "FreeMemory" : 338525888,
+    "MaxMemory" : 8493465600
+  },
+  "MatrixSize" : 512,
+  "After" : {
+    "ActiveThreads" : 3,
+    "UsedMemory" : 359977280,
+    "CPU Cores (Physical)" : 10,
+    "AvailableProcessors" : 16,
+    "CPU Frequency (MHz)" : 2688000.0,
+    "TotalMemory" : 767557632,
+    "CPU Usage (%)" : 0.382089552238806,
+    "CPU Cores (Logical)" : 16,
+    "FreeMemory" : 407580352,
+    "MaxMemory" : 8493465600
+  },
+  "Algorithm" : "OptimizedVectorizedMatrixMultiplication"
+}, {
+  "Before" : {
+    "ActiveThreads" : 3,
+    "UsedMemory" : 380948800,
+    "CPU Cores (Physical)" : 10,
+    "AvailableProcessors" : 16,
+    "CPU Frequency (MHz)" : 2688000.0,
+    "TotalMemory" : 767557632,
+    "CPU Usage (%)" : 1.338289962825279,
+    "CPU Cores (Logical)" : 16,
+    "FreeMemory" : 386608832,
+    "MaxMemory" : 8493465600
+  },
+  "MatrixSize" : 1024,
+  "After" : {
+    "ActiveThreads" : 3,
+    "UsedMemory" : 343132656,
+    "CPU Cores (Physical)" : 10,
+    "AvailableProcessors" : 16,
+    "CPU Frequency (MHz)" : 2688000.0,
+    "TotalMemory" : 767557632,
+    "CPU Usage (%)" : 0.5552570302704639,
+    "CPU Cores (Logical)" : 16,
+    "FreeMemory" : 424424976,
+    "MaxMemory" : 8493465600
+  },
+  "Algorithm" : "OptimizedVectorizedMatrixMultiplication"
+}, {
+  "Before" : {
+    "ActiveThreads" : 3,
+    "UsedMemory" : 349424112,
+    "CPU Cores (Physical)" : 10,
+    "AvailableProcessors" : 16,
+    "CPU Frequency (MHz)" : 2688000.0,
+    "TotalMemory" : 767557632,
+    "CPU Usage (%)" : 0.45882352941176474,
+    "CPU Cores (Logical)" : 16,
+    "FreeMemory" : 418133520,
+    "MaxMemory" : 8493465600
+  },
+  "MatrixSize" : 64,
+  "After" : {
+    "ActiveThreads" : 18,
+    "UsedMemory" : 370395632,
+    "CPU Cores (Physical)" : 10,
+    "AvailableProcessors" : 16,
+    "CPU Frequency (MHz)" : 2688000.0,
+    "TotalMemory" : 767557632,
+    "CPU Usage (%)" : 0.46348564977122825,
+    "CPU Cores (Logical)" : 16,
+    "FreeMemory" : 397162000,
+    "MaxMemory" : 8493465600
+  },
+  "Algorithm" : "StreamMatrixMultiplication"
+}, {
+  "Before" : {
+    "ActiveThreads" : 18,
+    "UsedMemory" : 376687088,
+    "CPU Cores (Physical)" : 10,
+    "AvailableProcessors" : 16,
+    "CPU Frequency (MHz)" : 2688000.0,
+    "TotalMemory" : 767557632,
+    "CPU Usage (%)" : 0.658603760028739,
+    "CPU Cores (Logical)" : 16,
+    "FreeMemory" : 390870544,
+    "MaxMemory" : 8493465600
+  },
+  "MatrixSize" : 128,
+  "After" : {
+    "ActiveThreads" : 18,
+    "UsedMemory" : 393464304,
+    "CPU Cores (Physical)" : 10,
+    "AvailableProcessors" : 16,
+    "CPU Frequency (MHz)" : 2688000.0,
+    "TotalMemory" : 767557632,
+    "CPU Usage (%)" : 0.6312985057338122,
+    "CPU Cores (Logical)" : 16,
+    "FreeMemory" : 374093328,
+    "MaxMemory" : 8493465600
+  },
+  "Algorithm" : "StreamMatrixMultiplication"
+}, {
+  "Before" : {
+    "ActiveThreads" : 18,
+    "UsedMemory" : 399755760,
+    "CPU Cores (Physical)" : 10,
+    "AvailableProcessors" : 16,
+    "CPU Frequency (MHz)" : 2688000.0,
+    "TotalMemory" : 767557632,
+    "CPU Usage (%)" : 0.7469821919445441,
+    "CPU Cores (Logical)" : 16,
+    "FreeMemory" : 367801872,
+    "MaxMemory" : 8493465600
+  },
+  "MatrixSize" : 256,
+  "After" : {
+    "ActiveThreads" : 18,
+    "UsedMemory" : 403950064,
+    "CPU Cores (Physical)" : 10,
+    "AvailableProcessors" : 16,
+    "CPU Frequency (MHz)" : 2688000.0,
+    "TotalMemory" : 767557632,
+    "CPU Usage (%)" : 1.4029013193242195,
+    "CPU Cores (Logical)" : 16,
+    "FreeMemory" : 363607568,
+    "MaxMemory" : 8493465600
+  },
+  "Algorithm" : "StreamMatrixMultiplication"
+}, {
+  "Before" : {
+    "ActiveThreads" : 18,
+    "UsedMemory" : 416532976,
+    "CPU Cores (Physical)" : 10,
+    "AvailableProcessors" : 16,
+    "CPU Frequency (MHz)" : 2688000.0,
+    "TotalMemory" : 767557632,
+    "CPU Usage (%)" : 0.5660827076629723,
+    "CPU Cores (Logical)" : 16,
+    "FreeMemory" : 351024656,
+    "MaxMemory" : 8493465600
+  },
+  "MatrixSize" : 512,
+  "After" : {
+    "ActiveThreads" : 18,
+    "UsedMemory" : 424921584,
+    "CPU Cores (Physical)" : 10,
+    "AvailableProcessors" : 16,
+    "CPU Frequency (MHz)" : 2688000.0,
+    "TotalMemory" : 767557632,
+    "CPU Usage (%)" : 1.667699588709223,
+    "CPU Cores (Logical)" : 16,
+    "FreeMemory" : 342636048,
+    "MaxMemory" : 8493465600
+  },
+  "Algorithm" : "StreamMatrixMultiplication"
+}, {
+  "Before" : {
+    "ActiveThreads" : 18,
+    "UsedMemory" : 447990256,
+    "CPU Cores (Physical)" : 10,
+    "AvailableProcessors" : 16,
+    "CPU Frequency (MHz)" : 2688000.0,
+    "TotalMemory" : 767557632,
+    "CPU Usage (%)" : 1.5211299822725453,
+    "CPU Cores (Logical)" : 16,
+    "FreeMemory" : 319567376,
+    "MaxMemory" : 8493465600
+  },
+  "MatrixSize" : 1024,
+  "After" : {
+    "ActiveThreads" : 18,
+    "UsedMemory" : 464767472,
+    "CPU Cores (Physical)" : 10,
+    "AvailableProcessors" : 16,
+    "CPU Frequency (MHz)" : 2688000.0,
+    "TotalMemory" : 767557632,
+    "CPU Usage (%)" : 3.8394624752534647,
+    "CPU Cores (Logical)" : 16,
+    "FreeMemory" : 302790160,
+    "MaxMemory" : 8493465600
+  },
+  "Algorithm" : "StreamMatrixMultiplication"
+}, {
+  "Before" : {
+    "ActiveThreads" : 18,
+    "UsedMemory" : 471058928,
+    "CPU Cores (Physical)" : 10,
+    "AvailableProcessors" : 16,
+    "CPU Frequency (MHz)" : 2688000.0,
+    "TotalMemory" : 767557632,
+    "CPU Usage (%)" : 1.1178556403630027,
+    "CPU Cores (Logical)" : 16,
+    "FreeMemory" : 296498704,
+    "MaxMemory" : 8493465600
+  },
+  "MatrixSize" : 64,
+  "After" : {
+    "ActiveThreads" : 18,
+    "UsedMemory" : 487836144,
+    "CPU Cores (Physical)" : 10,
+    "AvailableProcessors" : 16,
+    "CPU Frequency (MHz)" : 2688000.0,
+    "TotalMemory" : 767557632,
+    "CPU Usage (%)" : 1.2945163620201123,
+    "CPU Cores (Logical)" : 16,
+    "FreeMemory" : 279721488,
+    "MaxMemory" : 8493465600
+  },
+  "Algorithm" : "VectorizedSIMDMatrixMultiplication"
+}, {
+  "Before" : {
+    "ActiveThreads" : 18,
+    "UsedMemory" : 494127600,
+    "CPU Cores (Physical)" : 10,
+    "AvailableProcessors" : 16,
+    "CPU Frequency (MHz)" : 2688000.0,
+    "TotalMemory" : 767557632,
+    "CPU Usage (%)" : 0.7483685565467281,
+    "CPU Cores (Logical)" : 16,
+    "FreeMemory" : 273430032,
+    "MaxMemory" : 8493465600
+  },
+  "MatrixSize" : 128,
+  "After" : {
+    "ActiveThreads" : 18,
+    "UsedMemory" : 498321904,
+    "CPU Cores (Physical)" : 10,
+    "AvailableProcessors" : 16,
+    "CPU Frequency (MHz)" : 2688000.0,
+    "TotalMemory" : 767557632,
+    "CPU Usage (%)" : 0.5616970421272781,
+    "CPU Cores (Logical)" : 16,
+    "FreeMemory" : 269235728,
+    "MaxMemory" : 8493465600
+  },
+  "Algorithm" : "VectorizedSIMDMatrixMultiplication"
+}, {
+  "Before" : {
+    "ActiveThreads" : 18,
+    "UsedMemory" : 504613360,
+    "CPU Cores (Physical)" : 10,
+    "AvailableProcessors" : 16,
+    "CPU Frequency (MHz)" : 2688000.0,
+    "TotalMemory" : 767557632,
+    "CPU Usage (%)" : 0.7314339644900607,
+    "CPU Cores (Logical)" : 16,
+    "FreeMemory" : 262944272,
+    "MaxMemory" : 8493465600
+  },
+  "MatrixSize" : 256,
+  "After" : {
+    "ActiveThreads" : 18,
+    "UsedMemory" : 510904816,
+    "CPU Cores (Physical)" : 10,
+    "AvailableProcessors" : 16,
+    "CPU Frequency (MHz)" : 2688000.0,
+    "TotalMemory" : 767557632,
+    "CPU Usage (%)" : 0.651195832346673,
+    "CPU Cores (Logical)" : 16,
+    "FreeMemory" : 256652816,
+    "MaxMemory" : 8493465600
+  },
+  "Algorithm" : "VectorizedSIMDMatrixMultiplication"
+}, {
+  "Before" : {
+    "ActiveThreads" : 18,
+    "UsedMemory" : 519293424,
+    "CPU Cores (Physical)" : 10,
+    "AvailableProcessors" : 16,
+    "CPU Frequency (MHz)" : 2688000.0,
+    "TotalMemory" : 767557632,
+    "CPU Usage (%)" : 0.6370915892220469,
+    "CPU Cores (Logical)" : 16,
+    "FreeMemory" : 248264208,
+    "MaxMemory" : 8493465600
+  },
+  "MatrixSize" : 512,
+  "After" : {
+    "ActiveThreads" : 18,
+    "UsedMemory" : 529779184,
+    "CPU Cores (Physical)" : 10,
+    "AvailableProcessors" : 16,
+    "CPU Frequency (MHz)" : 2688000.0,
+    "TotalMemory" : 767557632,
+    "CPU Usage (%)" : 0.9068853974121996,
+    "CPU Cores (Logical)" : 16,
+    "FreeMemory" : 237778448,
+    "MaxMemory" : 8493465600
+  },
+  "Algorithm" : "VectorizedSIMDMatrixMultiplication"
+}, {
+  "Before" : {
+    "ActiveThreads" : 18,
+    "UsedMemory" : 550750704,
+    "CPU Cores (Physical)" : 10,
+    "AvailableProcessors" : 16,
+    "CPU Frequency (MHz)" : 2688000.0,
+    "TotalMemory" : 767557632,
+    "CPU Usage (%)" : 1.1619254765039209,
+    "CPU Cores (Logical)" : 16,
+    "FreeMemory" : 216806928,
+    "MaxMemory" : 8493465600
+  },
+  "MatrixSize" : 1024,
+  "After" : {
+    "ActiveThreads" : 18,
+    "UsedMemory" : 176516640,
+    "CPU Cores (Physical)" : 10,
+    "AvailableProcessors" : 16,
+    "CPU Frequency (MHz)" : 2688000.0,
+    "TotalMemory" : 767557632,
+    "CPU Usage (%)" : 0.850095785440613,
+    "CPU Cores (Logical)" : 16,
+    "FreeMemory" : 591040992,
+    "MaxMemory" : 8493465600
+  },
+  "Algorithm" : "VectorizedSIMDMatrixMultiplication"
+} ]

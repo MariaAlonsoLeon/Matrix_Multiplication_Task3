@@ -140,6 +140,10 @@ For more detailed results please go to the paper.
 - Execution time per operation (ms/ops).
 - Memory usage per operation (MB/ops).
 - CPU utilization.
+- 
+### Exploration of Advanced Concepts:
+- Opportunities for improving performance through parallelism using executors and streams.
+- Examination of synchronization mechanisms, including atomic operations, synchronized blocks, and semaphores, to optimize resource management and thread safety.
 
 ### Comparisons:
 - Each algorithm was benchmarked against the basic implementation to assess relative performance.

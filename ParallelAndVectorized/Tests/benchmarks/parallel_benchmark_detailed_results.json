@@ -1,0 +1,1502 @@
+[
+    {
+        "algorithm": "FixedThreadsMatrixMultiplication",
+        "matrix_size": 64,
+        "threads": 2,
+        "execution_time_ms": 112.06990003120154,
+        "system_info": {
+            "Operating System": "Windows 11",
+            "Version": "10.0.22631",
+            "Architecture": "64bit",
+            "Available Processors": 16,
+            "Total Memory (MB)": 32389,
+            "Free Memory (MB)": 18548,
+            "Active Thread Count": 1
+        }
+    },
+    {
+        "algorithm": "MatrixMultiplicationThreads",
+        "matrix_size": 64,
+        "threads": 2,
+        "execution_time_ms": 109.52820000238717,
+        "system_info": {
+            "Operating System": "Windows 11",
+            "Version": "10.0.22631",
+            "Architecture": "64bit",
+            "Available Processors": 16,
+            "Total Memory (MB)": 32389,
+            "Free Memory (MB)": 18547,
+            "Active Thread Count": 1
+        }
+    },
+    {
+        "algorithm": "SychorizedMatrixMultiplication",
+        "matrix_size": 64,
+        "threads": 2,
+        "execution_time_ms": 75.65539993811399,
+        "system_info": {
+            "Operating System": "Windows 11",
+            "Version": "10.0.22631",
+            "Architecture": "64bit",
+            "Available Processors": 16,
+            "Total Memory (MB)": 32389,
+            "Free Memory (MB)": 18546,
+            "Active Thread Count": 1
+        }
+    },
+    {
+        "algorithm": "ParallelMatrixMultiplicationOpenMP",
+        "matrix_size": 64,
+        "threads": 2,
+        "execution_time_ms": 98.20180002134293,
+        "system_info": {
+            "Operating System": "Windows 11",
+            "Version": "10.0.22631",
+            "Architecture": "64bit",
+            "Available Processors": 16,
+            "Total Memory (MB)": 32389,
+            "Free Memory (MB)": 18546,
+            "Active Thread Count": 1
+        }
+    },
+    {
+        "algorithm": "ExecutorMatrixMultiplication",
+        "matrix_size": 64,
+        "threads": 2,
+        "execution_time_ms": 8.611700031906366,
+        "system_info": {
+            "Operating System": "Windows 11",
+            "Version": "10.0.22631",
+            "Architecture": "64bit",
+            "Available Processors": 16,
+            "Total Memory (MB)": 32389,
+            "Free Memory (MB)": 18542,
+            "Active Thread Count": 1
+        }
+    },
+    {
+        "algorithm": "FixedThreadsMatrixMultiplication",
+        "matrix_size": 64,
+        "threads": 4,
+        "execution_time_ms": 112.47060005553067,
+        "system_info": {
+            "Operating System": "Windows 11",
+            "Version": "10.0.22631",
+            "Architecture": "64bit",
+            "Available Processors": 16,
+            "Total Memory (MB)": 32389,
+            "Free Memory (MB)": 18542,
+            "Active Thread Count": 1
+        }
+    },
+    {
+        "algorithm": "MatrixMultiplicationThreads",
+        "matrix_size": 64,
+        "threads": 4,
+        "execution_time_ms": 105.68039992358536,
+        "system_info": {
+            "Operating System": "Windows 11",
+            "Version": "10.0.22631",
+            "Architecture": "64bit",
+            "Available Processors": 16,
+            "Total Memory (MB)": 32389,
+            "Free Memory (MB)": 18541,
+            "Active Thread Count": 1
+        }
+    },
+    {
+        "algorithm": "SychorizedMatrixMultiplication",
+        "matrix_size": 64,
+        "threads": 4,
+        "execution_time_ms": 76.49639993906021,
+        "system_info": {
+            "Operating System": "Windows 11",
+            "Version": "10.0.22631",
+            "Architecture": "64bit",
+            "Available Processors": 16,
+            "Total Memory (MB)": 32389,
+            "Free Memory (MB)": 18539,
+            "Active Thread Count": 1
+        }
+    },
+    {
+        "algorithm": "ParallelMatrixMultiplicationOpenMP",
+        "matrix_size": 64,
+        "threads": 4,
+        "execution_time_ms": 102.59499994572252,
+        "system_info": {
+            "Operating System": "Windows 11",
+            "Version": "10.0.22631",
+            "Architecture": "64bit",
+            "Available Processors": 16,
+            "Total Memory (MB)": 32389,
+            "Free Memory (MB)": 18539,
+            "Active Thread Count": 1
+        }
+    },
+    {
+        "algorithm": "ExecutorMatrixMultiplication",
+        "matrix_size": 64,
+        "threads": 4,
+        "execution_time_ms": 18.33190000616014,
+        "system_info": {
+            "Operating System": "Windows 11",
+            "Version": "10.0.22631",
+            "Architecture": "64bit",
+            "Available Processors": 16,
+            "Total Memory (MB)": 32389,
+            "Free Memory (MB)": 18536,
+            "Active Thread Count": 1
+        }
+    },
+    {
+        "algorithm": "FixedThreadsMatrixMultiplication",
+        "matrix_size": 64,
+        "threads": 8,
+        "execution_time_ms": 112.10899997968227,
+        "system_info": {
+            "Operating System": "Windows 11",
+            "Version": "10.0.22631",
+            "Architecture": "64bit",
+            "Available Processors": 16,
+            "Total Memory (MB)": 32389,
+            "Free Memory (MB)": 18536,
+            "Active Thread Count": 1
+        }
+    },
+    {
+        "algorithm": "MatrixMultiplicationThreads",
+        "matrix_size": 64,
+        "threads": 8,
+        "execution_time_ms": 120.41820003651083,
+        "system_info": {
+            "Operating System": "Windows 11",
+            "Version": "10.0.22631",
+            "Architecture": "64bit",
+            "Available Processors": 16,
+            "Total Memory (MB)": 32389,
+            "Free Memory (MB)": 18535,
+            "Active Thread Count": 1
+        }
+    },
+    {
+        "algorithm": "SychorizedMatrixMultiplication",
+        "matrix_size": 64,
+        "threads": 8,
+        "execution_time_ms": 80.4832000285387,
+        "system_info": {
+            "Operating System": "Windows 11",
+            "Version": "10.0.22631",
+            "Architecture": "64bit",
+            "Available Processors": 16,
+            "Total Memory (MB)": 32389,
+            "Free Memory (MB)": 18535,
+            "Active Thread Count": 1
+        }
+    },
+    {
+        "algorithm": "ParallelMatrixMultiplicationOpenMP",
+        "matrix_size": 64,
+        "threads": 8,
+        "execution_time_ms": 88.92560005187988,
+        "system_info": {
+            "Operating System": "Windows 11",
+            "Version": "10.0.22631",
+            "Architecture": "64bit",
+            "Available Processors": 16,
+            "Total Memory (MB)": 32389,
+            "Free Memory (MB)": 18543,
+            "Active Thread Count": 1
+        }
+    },
+    {
+        "algorithm": "ExecutorMatrixMultiplication",
+        "matrix_size": 64,
+        "threads": 8,
+        "execution_time_ms": 19.938300014473498,
+        "system_info": {
+            "Operating System": "Windows 11",
+            "Version": "10.0.22631",
+            "Architecture": "64bit",
+            "Available Processors": 16,
+            "Total Memory (MB)": 32389,
+            "Free Memory (MB)": 18542,
+            "Active Thread Count": 1
+        }
+    },
+    {
+        "algorithm": "FixedThreadsMatrixMultiplication",
+        "matrix_size": 64,
+        "threads": 16,
+        "execution_time_ms": 125.83799997810274,
+        "system_info": {
+            "Operating System": "Windows 11",
+            "Version": "10.0.22631",
+            "Architecture": "64bit",
+            "Available Processors": 16,
+            "Total Memory (MB)": 32389,
+            "Free Memory (MB)": 18542,
+            "Active Thread Count": 1
+        }
+    },
+    {
+        "algorithm": "MatrixMultiplicationThreads",
+        "matrix_size": 64,
+        "threads": 16,
+        "execution_time_ms": 116.85680004302412,
+        "system_info": {
+            "Operating System": "Windows 11",
+            "Version": "10.0.22631",
+            "Architecture": "64bit",
+            "Available Processors": 16,
+            "Total Memory (MB)": 32389,
+            "Free Memory (MB)": 18538,
+            "Active Thread Count": 1
+        }
+    },
+    {
+        "algorithm": "SychorizedMatrixMultiplication",
+        "matrix_size": 64,
+        "threads": 16,
+        "execution_time_ms": 90.8998999511823,
+        "system_info": {
+            "Operating System": "Windows 11",
+            "Version": "10.0.22631",
+            "Architecture": "64bit",
+            "Available Processors": 16,
+            "Total Memory (MB)": 32389,
+            "Free Memory (MB)": 18541,
+            "Active Thread Count": 1
+        }
+    },
+    {
+        "algorithm": "ParallelMatrixMultiplicationOpenMP",
+        "matrix_size": 64,
+        "threads": 16,
+        "execution_time_ms": 98.45350007526577,
+        "system_info": {
+            "Operating System": "Windows 11",
+            "Version": "10.0.22631",
+            "Architecture": "64bit",
+            "Available Processors": 16,
+            "Total Memory (MB)": 32389,
+            "Free Memory (MB)": 18532,
+            "Active Thread Count": 1
+        }
+    },
+    {
+        "algorithm": "ExecutorMatrixMultiplication",
+        "matrix_size": 64,
+        "threads": 16,
+        "execution_time_ms": 23.277000058442354,
+        "system_info": {
+            "Operating System": "Windows 11",
+            "Version": "10.0.22631",
+            "Architecture": "64bit",
+            "Available Processors": 16,
+            "Total Memory (MB)": 32389,
+            "Free Memory (MB)": 18531,
+            "Active Thread Count": 1
+        }
+    },
+    {
+        "algorithm": "FixedThreadsMatrixMultiplication",
+        "matrix_size": 128,
+        "threads": 2,
+        "execution_time_ms": 843.8665999565274,
+        "system_info": {
+            "Operating System": "Windows 11",
+            "Version": "10.0.22631",
+            "Architecture": "64bit",
+            "Available Processors": 16,
+            "Total Memory (MB)": 32389,
+            "Free Memory (MB)": 18530,
+            "Active Thread Count": 1
+        }
+    },
+    {
+        "algorithm": "MatrixMultiplicationThreads",
+        "matrix_size": 128,
+        "threads": 2,
+        "execution_time_ms": 823.8899999996647,
+        "system_info": {
+            "Operating System": "Windows 11",
+            "Version": "10.0.22631",
+            "Architecture": "64bit",
+            "Available Processors": 16,
+            "Total Memory (MB)": 32389,
+            "Free Memory (MB)": 18527,
+            "Active Thread Count": 1
+        }
+    },
+    {
+        "algorithm": "SychorizedMatrixMultiplication",
+        "matrix_size": 128,
+        "threads": 2,
+        "execution_time_ms": 572.1179000101984,
+        "system_info": {
+            "Operating System": "Windows 11",
+            "Version": "10.0.22631",
+            "Architecture": "64bit",
+            "Available Processors": 16,
+            "Total Memory (MB)": 32389,
+            "Free Memory (MB)": 18523,
+            "Active Thread Count": 1
+        }
+    },
+    {
+        "algorithm": "ParallelMatrixMultiplicationOpenMP",
+        "matrix_size": 128,
+        "threads": 2,
+        "execution_time_ms": 581.1202999902889,
+        "system_info": {
+            "Operating System": "Windows 11",
+            "Version": "10.0.22631",
+            "Architecture": "64bit",
+            "Available Processors": 16,
+            "Total Memory (MB)": 32389,
+            "Free Memory (MB)": 18528,
+            "Active Thread Count": 1
+        }
+    },
+    {
+        "algorithm": "ExecutorMatrixMultiplication",
+        "matrix_size": 128,
+        "threads": 2,
+        "execution_time_ms": 34.5507999882102,
+        "system_info": {
+            "Operating System": "Windows 11",
+            "Version": "10.0.22631",
+            "Architecture": "64bit",
+            "Available Processors": 16,
+            "Total Memory (MB)": 32389,
+            "Free Memory (MB)": 18499,
+            "Active Thread Count": 1
+        }
+    },
+    {
+        "algorithm": "FixedThreadsMatrixMultiplication",
+        "matrix_size": 128,
+        "threads": 4,
+        "execution_time_ms": 837.2707000235096,
+        "system_info": {
+            "Operating System": "Windows 11",
+            "Version": "10.0.22631",
+            "Architecture": "64bit",
+            "Available Processors": 16,
+            "Total Memory (MB)": 32389,
+            "Free Memory (MB)": 18496,
+            "Active Thread Count": 1
+        }
+    },
+    {
+        "algorithm": "MatrixMultiplicationThreads",
+        "matrix_size": 128,
+        "threads": 4,
+        "execution_time_ms": 813.6892999755219,
+        "system_info": {
+            "Operating System": "Windows 11",
+            "Version": "10.0.22631",
+            "Architecture": "64bit",
+            "Available Processors": 16,
+            "Total Memory (MB)": 32389,
+            "Free Memory (MB)": 18499,
+            "Active Thread Count": 1
+        }
+    },
+    {
+        "algorithm": "SychorizedMatrixMultiplication",
+        "matrix_size": 128,
+        "threads": 4,
+        "execution_time_ms": 571.2523999391124,
+        "system_info": {
+            "Operating System": "Windows 11",
+            "Version": "10.0.22631",
+            "Architecture": "64bit",
+            "Available Processors": 16,
+            "Total Memory (MB)": 32389,
+            "Free Memory (MB)": 18497,
+            "Active Thread Count": 1
+        }
+    },
+    {
+        "algorithm": "ParallelMatrixMultiplicationOpenMP",
+        "matrix_size": 128,
+        "threads": 4,
+        "execution_time_ms": 585.1528999628499,
+        "system_info": {
+            "Operating System": "Windows 11",
+            "Version": "10.0.22631",
+            "Architecture": "64bit",
+            "Available Processors": 16,
+            "Total Memory (MB)": 32389,
+            "Free Memory (MB)": 18531,
+            "Active Thread Count": 1
+        }
+    },
+    {
+        "algorithm": "ExecutorMatrixMultiplication",
+        "matrix_size": 128,
+        "threads": 4,
+        "execution_time_ms": 27.84970006905496,
+        "system_info": {
+            "Operating System": "Windows 11",
+            "Version": "10.0.22631",
+            "Architecture": "64bit",
+            "Available Processors": 16,
+            "Total Memory (MB)": 32389,
+            "Free Memory (MB)": 18526,
+            "Active Thread Count": 1
+        }
+    },
+    {
+        "algorithm": "FixedThreadsMatrixMultiplication",
+        "matrix_size": 128,
+        "threads": 8,
+        "execution_time_ms": 871.7964000534266,
+        "system_info": {
+            "Operating System": "Windows 11",
+            "Version": "10.0.22631",
+            "Architecture": "64bit",
+            "Available Processors": 16,
+            "Total Memory (MB)": 32389,
+            "Free Memory (MB)": 18526,
+            "Active Thread Count": 1
+        }
+    },
+    {
+        "algorithm": "MatrixMultiplicationThreads",
+        "matrix_size": 128,
+        "threads": 8,
+        "execution_time_ms": 825.9303999366239,
+        "system_info": {
+            "Operating System": "Windows 11",
+            "Version": "10.0.22631",
+            "Architecture": "64bit",
+            "Available Processors": 16,
+            "Total Memory (MB)": 32389,
+            "Free Memory (MB)": 18521,
+            "Active Thread Count": 1
+        }
+    },
+    {
+        "algorithm": "SychorizedMatrixMultiplication",
+        "matrix_size": 128,
+        "threads": 8,
+        "execution_time_ms": 576.675400021486,
+        "system_info": {
+            "Operating System": "Windows 11",
+            "Version": "10.0.22631",
+            "Architecture": "64bit",
+            "Available Processors": 16,
+            "Total Memory (MB)": 32389,
+            "Free Memory (MB)": 18515,
+            "Active Thread Count": 1
+        }
+    },
+    {
+        "algorithm": "ParallelMatrixMultiplicationOpenMP",
+        "matrix_size": 128,
+        "threads": 8,
+        "execution_time_ms": 581.4752000151202,
+        "system_info": {
+            "Operating System": "Windows 11",
+            "Version": "10.0.22631",
+            "Architecture": "64bit",
+            "Available Processors": 16,
+            "Total Memory (MB)": 32389,
+            "Free Memory (MB)": 18518,
+            "Active Thread Count": 1
+        }
+    },
+    {
+        "algorithm": "ExecutorMatrixMultiplication",
+        "matrix_size": 128,
+        "threads": 8,
+        "execution_time_ms": 61.596799991093576,
+        "system_info": {
+            "Operating System": "Windows 11",
+            "Version": "10.0.22631",
+            "Architecture": "64bit",
+            "Available Processors": 16,
+            "Total Memory (MB)": 32389,
+            "Free Memory (MB)": 18514,
+            "Active Thread Count": 1
+        }
+    },
+    {
+        "algorithm": "FixedThreadsMatrixMultiplication",
+        "matrix_size": 128,
+        "threads": 16,
+        "execution_time_ms": 861.6386000066996,
+        "system_info": {
+            "Operating System": "Windows 11",
+            "Version": "10.0.22631",
+            "Architecture": "64bit",
+            "Available Processors": 16,
+            "Total Memory (MB)": 32389,
+            "Free Memory (MB)": 18514,
+            "Active Thread Count": 1
+        }
+    },
+    {
+        "algorithm": "MatrixMultiplicationThreads",
+        "matrix_size": 128,
+        "threads": 16,
+        "execution_time_ms": 835.2703000418842,
+        "system_info": {
+            "Operating System": "Windows 11",
+            "Version": "10.0.22631",
+            "Architecture": "64bit",
+            "Available Processors": 16,
+            "Total Memory (MB)": 32389,
+            "Free Memory (MB)": 18514,
+            "Active Thread Count": 1
+        }
+    },
+    {
+        "algorithm": "SychorizedMatrixMultiplication",
+        "matrix_size": 128,
+        "threads": 16,
+        "execution_time_ms": 577.8059000149369,
+        "system_info": {
+            "Operating System": "Windows 11",
+            "Version": "10.0.22631",
+            "Architecture": "64bit",
+            "Available Processors": 16,
+            "Total Memory (MB)": 32389,
+            "Free Memory (MB)": 18514,
+            "Active Thread Count": 1
+        }
+    },
+    {
+        "algorithm": "ParallelMatrixMultiplicationOpenMP",
+        "matrix_size": 128,
+        "threads": 16,
+        "execution_time_ms": 576.4968000585213,
+        "system_info": {
+            "Operating System": "Windows 11",
+            "Version": "10.0.22631",
+            "Architecture": "64bit",
+            "Available Processors": 16,
+            "Total Memory (MB)": 32389,
+            "Free Memory (MB)": 18514,
+            "Active Thread Count": 1
+        }
+    },
+    {
+        "algorithm": "ExecutorMatrixMultiplication",
+        "matrix_size": 128,
+        "threads": 16,
+        "execution_time_ms": 72.41839997004718,
+        "system_info": {
+            "Operating System": "Windows 11",
+            "Version": "10.0.22631",
+            "Architecture": "64bit",
+            "Available Processors": 16,
+            "Total Memory (MB)": 32389,
+            "Free Memory (MB)": 18513,
+            "Active Thread Count": 1
+        }
+    },
+    {
+        "algorithm": "FixedThreadsMatrixMultiplication",
+        "matrix_size": 256,
+        "threads": 2,
+        "execution_time_ms": 6607.734499964863,
+        "system_info": {
+            "Operating System": "Windows 11",
+            "Version": "10.0.22631",
+            "Architecture": "64bit",
+            "Available Processors": 16,
+            "Total Memory (MB)": 32389,
+            "Free Memory (MB)": 18514,
+            "Active Thread Count": 1
+        }
+    },
+    {
+        "algorithm": "MatrixMultiplicationThreads",
+        "matrix_size": 256,
+        "threads": 2,
+        "execution_time_ms": 6471.442800015211,
+        "system_info": {
+            "Operating System": "Windows 11",
+            "Version": "10.0.22631",
+            "Architecture": "64bit",
+            "Available Processors": 16,
+            "Total Memory (MB)": 32389,
+            "Free Memory (MB)": 18519,
+            "Active Thread Count": 1
+        }
+    },
+    {
+        "algorithm": "SychorizedMatrixMultiplication",
+        "matrix_size": 256,
+        "threads": 2,
+        "execution_time_ms": 4418.492699973285,
+        "system_info": {
+            "Operating System": "Windows 11",
+            "Version": "10.0.22631",
+            "Architecture": "64bit",
+            "Available Processors": 16,
+            "Total Memory (MB)": 32389,
+            "Free Memory (MB)": 18342,
+            "Active Thread Count": 1
+        }
+    },
+    {
+        "algorithm": "ParallelMatrixMultiplicationOpenMP",
+        "matrix_size": 256,
+        "threads": 2,
+        "execution_time_ms": 4405.315199983306,
+        "system_info": {
+            "Operating System": "Windows 11",
+            "Version": "10.0.22631",
+            "Architecture": "64bit",
+            "Available Processors": 16,
+            "Total Memory (MB)": 32389,
+            "Free Memory (MB)": 18446,
+            "Active Thread Count": 1
+        }
+    },
+    {
+        "algorithm": "ExecutorMatrixMultiplication",
+        "matrix_size": 256,
+        "threads": 2,
+        "execution_time_ms": 144.16149992030114,
+        "system_info": {
+            "Operating System": "Windows 11",
+            "Version": "10.0.22631",
+            "Architecture": "64bit",
+            "Available Processors": 16,
+            "Total Memory (MB)": 32389,
+            "Free Memory (MB)": 18521,
+            "Active Thread Count": 1
+        }
+    },
+    {
+        "algorithm": "FixedThreadsMatrixMultiplication",
+        "matrix_size": 256,
+        "threads": 4,
+        "execution_time_ms": 6578.838099958375,
+        "system_info": {
+            "Operating System": "Windows 11",
+            "Version": "10.0.22631",
+            "Architecture": "64bit",
+            "Available Processors": 16,
+            "Total Memory (MB)": 32389,
+            "Free Memory (MB)": 18525,
+            "Active Thread Count": 1
+        }
+    },
+    {
+        "algorithm": "MatrixMultiplicationThreads",
+        "matrix_size": 256,
+        "threads": 4,
+        "execution_time_ms": 6436.820100061595,
+        "system_info": {
+            "Operating System": "Windows 11",
+            "Version": "10.0.22631",
+            "Architecture": "64bit",
+            "Available Processors": 16,
+            "Total Memory (MB)": 32389,
+            "Free Memory (MB)": 18530,
+            "Active Thread Count": 1
+        }
+    },
+    {
+        "algorithm": "SychorizedMatrixMultiplication",
+        "matrix_size": 256,
+        "threads": 4,
+        "execution_time_ms": 4542.694100062363,
+        "system_info": {
+            "Operating System": "Windows 11",
+            "Version": "10.0.22631",
+            "Architecture": "64bit",
+            "Available Processors": 16,
+            "Total Memory (MB)": 32389,
+            "Free Memory (MB)": 18555,
+            "Active Thread Count": 1
+        }
+    },
+    {
+        "algorithm": "ParallelMatrixMultiplicationOpenMP",
+        "matrix_size": 256,
+        "threads": 4,
+        "execution_time_ms": 4365.439599961974,
+        "system_info": {
+            "Operating System": "Windows 11",
+            "Version": "10.0.22631",
+            "Architecture": "64bit",
+            "Available Processors": 16,
+            "Total Memory (MB)": 32389,
+            "Free Memory (MB)": 18563,
+            "Active Thread Count": 1
+        }
+    },
+    {
+        "algorithm": "ExecutorMatrixMultiplication",
+        "matrix_size": 256,
+        "threads": 4,
+        "execution_time_ms": 245.0931000057608,
+        "system_info": {
+            "Operating System": "Windows 11",
+            "Version": "10.0.22631",
+            "Architecture": "64bit",
+            "Available Processors": 16,
+            "Total Memory (MB)": 32389,
+            "Free Memory (MB)": 18582,
+            "Active Thread Count": 1
+        }
+    },
+    {
+        "algorithm": "FixedThreadsMatrixMultiplication",
+        "matrix_size": 256,
+        "threads": 8,
+        "execution_time_ms": 6571.582600008696,
+        "system_info": {
+            "Operating System": "Windows 11",
+            "Version": "10.0.22631",
+            "Architecture": "64bit",
+            "Available Processors": 16,
+            "Total Memory (MB)": 32389,
+            "Free Memory (MB)": 18584,
+            "Active Thread Count": 1
+        }
+    },
+    {
+        "algorithm": "MatrixMultiplicationThreads",
+        "matrix_size": 256,
+        "threads": 8,
+        "execution_time_ms": 6437.476200051606,
+        "system_info": {
+            "Operating System": "Windows 11",
+            "Version": "10.0.22631",
+            "Architecture": "64bit",
+            "Available Processors": 16,
+            "Total Memory (MB)": 32389,
+            "Free Memory (MB)": 18613,
+            "Active Thread Count": 1
+        }
+    },
+    {
+        "algorithm": "SychorizedMatrixMultiplication",
+        "matrix_size": 256,
+        "threads": 8,
+        "execution_time_ms": 4414.68230006285,
+        "system_info": {
+            "Operating System": "Windows 11",
+            "Version": "10.0.22631",
+            "Architecture": "64bit",
+            "Available Processors": 16,
+            "Total Memory (MB)": 32389,
+            "Free Memory (MB)": 18620,
+            "Active Thread Count": 1
+        }
+    },
+    {
+        "algorithm": "ParallelMatrixMultiplicationOpenMP",
+        "matrix_size": 256,
+        "threads": 8,
+        "execution_time_ms": 4361.005300073884,
+        "system_info": {
+            "Operating System": "Windows 11",
+            "Version": "10.0.22631",
+            "Architecture": "64bit",
+            "Available Processors": 16,
+            "Total Memory (MB)": 32389,
+            "Free Memory (MB)": 18621,
+            "Active Thread Count": 1
+        }
+    },
+    {
+        "algorithm": "ExecutorMatrixMultiplication",
+        "matrix_size": 256,
+        "threads": 8,
+        "execution_time_ms": 267.0133999781683,
+        "system_info": {
+            "Operating System": "Windows 11",
+            "Version": "10.0.22631",
+            "Architecture": "64bit",
+            "Available Processors": 16,
+            "Total Memory (MB)": 32389,
+            "Free Memory (MB)": 18619,
+            "Active Thread Count": 1
+        }
+    },
+    {
+        "algorithm": "FixedThreadsMatrixMultiplication",
+        "matrix_size": 256,
+        "threads": 16,
+        "execution_time_ms": 6606.798999942839,
+        "system_info": {
+            "Operating System": "Windows 11",
+            "Version": "10.0.22631",
+            "Architecture": "64bit",
+            "Available Processors": 16,
+            "Total Memory (MB)": 32389,
+            "Free Memory (MB)": 18619,
+            "Active Thread Count": 1
+        }
+    },
+    {
+        "algorithm": "MatrixMultiplicationThreads",
+        "matrix_size": 256,
+        "threads": 16,
+        "execution_time_ms": 6455.392199917696,
+        "system_info": {
+            "Operating System": "Windows 11",
+            "Version": "10.0.22631",
+            "Architecture": "64bit",
+            "Available Processors": 16,
+            "Total Memory (MB)": 32389,
+            "Free Memory (MB)": 18602,
+            "Active Thread Count": 1
+        }
+    },
+    {
+        "algorithm": "SychorizedMatrixMultiplication",
+        "matrix_size": 256,
+        "threads": 16,
+        "execution_time_ms": 4451.00610004738,
+        "system_info": {
+            "Operating System": "Windows 11",
+            "Version": "10.0.22631",
+            "Architecture": "64bit",
+            "Available Processors": 16,
+            "Total Memory (MB)": 32389,
+            "Free Memory (MB)": 18611,
+            "Active Thread Count": 1
+        }
+    },
+    {
+        "algorithm": "ParallelMatrixMultiplicationOpenMP",
+        "matrix_size": 256,
+        "threads": 16,
+        "execution_time_ms": 4381.942300009541,
+        "system_info": {
+            "Operating System": "Windows 11",
+            "Version": "10.0.22631",
+            "Architecture": "64bit",
+            "Available Processors": 16,
+            "Total Memory (MB)": 32389,
+            "Free Memory (MB)": 18615,
+            "Active Thread Count": 1
+        }
+    },
+    {
+        "algorithm": "ExecutorMatrixMultiplication",
+        "matrix_size": 256,
+        "threads": 16,
+        "execution_time_ms": 257.22470006439835,
+        "system_info": {
+            "Operating System": "Windows 11",
+            "Version": "10.0.22631",
+            "Architecture": "64bit",
+            "Available Processors": 16,
+            "Total Memory (MB)": 32389,
+            "Free Memory (MB)": 18601,
+            "Active Thread Count": 1
+        }
+    },
+    {
+        "algorithm": "FixedThreadsMatrixMultiplication",
+        "matrix_size": 512,
+        "threads": 2,
+        "execution_time_ms": 52082.84180006012,
+        "system_info": {
+            "Operating System": "Windows 11",
+            "Version": "10.0.22631",
+            "Architecture": "64bit",
+            "Available Processors": 16,
+            "Total Memory (MB)": 32389,
+            "Free Memory (MB)": 18602,
+            "Active Thread Count": 1
+        }
+    },
+    {
+        "algorithm": "MatrixMultiplicationThreads",
+        "matrix_size": 512,
+        "threads": 2,
+        "execution_time_ms": 50676.64610000793,
+        "system_info": {
+            "Operating System": "Windows 11",
+            "Version": "10.0.22631",
+            "Architecture": "64bit",
+            "Available Processors": 16,
+            "Total Memory (MB)": 32389,
+            "Free Memory (MB)": 18518,
+            "Active Thread Count": 1
+        }
+    },
+    {
+        "algorithm": "SychorizedMatrixMultiplication",
+        "matrix_size": 512,
+        "threads": 2,
+        "execution_time_ms": 36034.01200007647,
+        "system_info": {
+            "Operating System": "Windows 11",
+            "Version": "10.0.22631",
+            "Architecture": "64bit",
+            "Available Processors": 16,
+            "Total Memory (MB)": 32389,
+            "Free Memory (MB)": 18468,
+            "Active Thread Count": 1
+        }
+    },
+    {
+        "algorithm": "ParallelMatrixMultiplicationOpenMP",
+        "matrix_size": 512,
+        "threads": 2,
+        "execution_time_ms": 35797.30279999785,
+        "system_info": {
+            "Operating System": "Windows 11",
+            "Version": "10.0.22631",
+            "Architecture": "64bit",
+            "Available Processors": 16,
+            "Total Memory (MB)": 32389,
+            "Free Memory (MB)": 18421,
+            "Active Thread Count": 1
+        }
+    },
+    {
+        "algorithm": "ExecutorMatrixMultiplication",
+        "matrix_size": 512,
+        "threads": 2,
+        "execution_time_ms": 532.8436999116093,
+        "system_info": {
+            "Operating System": "Windows 11",
+            "Version": "10.0.22631",
+            "Architecture": "64bit",
+            "Available Processors": 16,
+            "Total Memory (MB)": 32389,
+            "Free Memory (MB)": 18491,
+            "Active Thread Count": 1
+        }
+    },
+    {
+        "algorithm": "FixedThreadsMatrixMultiplication",
+        "matrix_size": 512,
+        "threads": 4,
+        "execution_time_ms": 53200.08350000717,
+        "system_info": {
+            "Operating System": "Windows 11",
+            "Version": "10.0.22631",
+            "Architecture": "64bit",
+            "Available Processors": 16,
+            "Total Memory (MB)": 32389,
+            "Free Memory (MB)": 18487,
+            "Active Thread Count": 1
+        }
+    },
+    {
+        "algorithm": "MatrixMultiplicationThreads",
+        "matrix_size": 512,
+        "threads": 4,
+        "execution_time_ms": 52820.27249992825,
+        "system_info": {
+            "Operating System": "Windows 11",
+            "Version": "10.0.22631",
+            "Architecture": "64bit",
+            "Available Processors": 16,
+            "Total Memory (MB)": 32389,
+            "Free Memory (MB)": 17915,
+            "Active Thread Count": 1
+        }
+    },
+    {
+        "algorithm": "SychorizedMatrixMultiplication",
+        "matrix_size": 512,
+        "threads": 4,
+        "execution_time_ms": 80972.44139993563,
+        "system_info": {
+            "Operating System": "Windows 11",
+            "Version": "10.0.22631",
+            "Architecture": "64bit",
+            "Available Processors": 16,
+            "Total Memory (MB)": 32389,
+            "Free Memory (MB)": 18156,
+            "Active Thread Count": 1
+        }
+    },
+    {
+        "algorithm": "ParallelMatrixMultiplicationOpenMP",
+        "matrix_size": 512,
+        "threads": 4,
+        "execution_time_ms": 36111.91480001435,
+        "system_info": {
+            "Operating System": "Windows 11",
+            "Version": "10.0.22631",
+            "Architecture": "64bit",
+            "Available Processors": 16,
+            "Total Memory (MB)": 32389,
+            "Free Memory (MB)": 18185,
+            "Active Thread Count": 1
+        }
+    },
+    {
+        "algorithm": "ExecutorMatrixMultiplication",
+        "matrix_size": 512,
+        "threads": 4,
+        "execution_time_ms": 1178.8812999147922,
+        "system_info": {
+            "Operating System": "Windows 11",
+            "Version": "10.0.22631",
+            "Architecture": "64bit",
+            "Available Processors": 16,
+            "Total Memory (MB)": 32389,
+            "Free Memory (MB)": 18147,
+            "Active Thread Count": 1
+        }
+    },
+    {
+        "algorithm": "FixedThreadsMatrixMultiplication",
+        "matrix_size": 512,
+        "threads": 8,
+        "execution_time_ms": 52621.57740001567,
+        "system_info": {
+            "Operating System": "Windows 11",
+            "Version": "10.0.22631",
+            "Architecture": "64bit",
+            "Available Processors": 16,
+            "Total Memory (MB)": 32389,
+            "Free Memory (MB)": 18156,
+            "Active Thread Count": 1
+        }
+    },
+    {
+        "algorithm": "MatrixMultiplicationThreads",
+        "matrix_size": 512,
+        "threads": 8,
+        "execution_time_ms": 51509.83329990413,
+        "system_info": {
+            "Operating System": "Windows 11",
+            "Version": "10.0.22631",
+            "Architecture": "64bit",
+            "Available Processors": 16,
+            "Total Memory (MB)": 32389,
+            "Free Memory (MB)": 18255,
+            "Active Thread Count": 1
+        }
+    },
+    {
+        "algorithm": "SychorizedMatrixMultiplication",
+        "matrix_size": 512,
+        "threads": 8,
+        "execution_time_ms": 36533.40750001371,
+        "system_info": {
+            "Operating System": "Windows 11",
+            "Version": "10.0.22631",
+            "Architecture": "64bit",
+            "Available Processors": 16,
+            "Total Memory (MB)": 32389,
+            "Free Memory (MB)": 18293,
+            "Active Thread Count": 1
+        }
+    },
+    {
+        "algorithm": "ParallelMatrixMultiplicationOpenMP",
+        "matrix_size": 512,
+        "threads": 8,
+        "execution_time_ms": 36182.2986000916,
+        "system_info": {
+            "Operating System": "Windows 11",
+            "Version": "10.0.22631",
+            "Architecture": "64bit",
+            "Available Processors": 16,
+            "Total Memory (MB)": 32389,
+            "Free Memory (MB)": 18313,
+            "Active Thread Count": 1
+        }
+    },
+    {
+        "algorithm": "ExecutorMatrixMultiplication",
+        "matrix_size": 512,
+        "threads": 8,
+        "execution_time_ms": 1202.6161999674514,
+        "system_info": {
+            "Operating System": "Windows 11",
+            "Version": "10.0.22631",
+            "Architecture": "64bit",
+            "Available Processors": 16,
+            "Total Memory (MB)": 32389,
+            "Free Memory (MB)": 18407,
+            "Active Thread Count": 1
+        }
+    },
+    {
+        "algorithm": "FixedThreadsMatrixMultiplication",
+        "matrix_size": 512,
+        "threads": 16,
+        "execution_time_ms": 52074.313300079666,
+        "system_info": {
+            "Operating System": "Windows 11",
+            "Version": "10.0.22631",
+            "Architecture": "64bit",
+            "Available Processors": 16,
+            "Total Memory (MB)": 32389,
+            "Free Memory (MB)": 18405,
+            "Active Thread Count": 1
+        }
+    },
+    {
+        "algorithm": "MatrixMultiplicationThreads",
+        "matrix_size": 512,
+        "threads": 16,
+        "execution_time_ms": 50770.6399000017,
+        "system_info": {
+            "Operating System": "Windows 11",
+            "Version": "10.0.22631",
+            "Architecture": "64bit",
+            "Available Processors": 16,
+            "Total Memory (MB)": 32389,
+            "Free Memory (MB)": 18331,
+            "Active Thread Count": 1
+        }
+    },
+    {
+        "algorithm": "SychorizedMatrixMultiplication",
+        "matrix_size": 512,
+        "threads": 16,
+        "execution_time_ms": 35959.469599998556,
+        "system_info": {
+            "Operating System": "Windows 11",
+            "Version": "10.0.22631",
+            "Architecture": "64bit",
+            "Available Processors": 16,
+            "Total Memory (MB)": 32389,
+            "Free Memory (MB)": 18334,
+            "Active Thread Count": 1
+        }
+    },
+    {
+        "algorithm": "ParallelMatrixMultiplicationOpenMP",
+        "matrix_size": 512,
+        "threads": 16,
+        "execution_time_ms": 35578.95910006482,
+        "system_info": {
+            "Operating System": "Windows 11",
+            "Version": "10.0.22631",
+            "Architecture": "64bit",
+            "Available Processors": 16,
+            "Total Memory (MB)": 32389,
+            "Free Memory (MB)": 18314,
+            "Active Thread Count": 1
+        }
+    },
+    {
+        "algorithm": "ExecutorMatrixMultiplication",
+        "matrix_size": 512,
+        "threads": 16,
+        "execution_time_ms": 1079.1973000159487,
+        "system_info": {
+            "Operating System": "Windows 11",
+            "Version": "10.0.22631",
+            "Architecture": "64bit",
+            "Available Processors": 16,
+            "Total Memory (MB)": 32389,
+            "Free Memory (MB)": 18322,
+            "Active Thread Count": 1
+        }
+    },
+    {
+        "algorithm": "FixedThreadsMatrixMultiplication",
+        "matrix_size": 1024,
+        "threads": 2,
+        "execution_time_ms": 431303.2537999097,
+        "system_info": {
+            "Operating System": "Windows 11",
+            "Version": "10.0.22631",
+            "Architecture": "64bit",
+            "Available Processors": 16,
+            "Total Memory (MB)": 32389,
+            "Free Memory (MB)": 18317,
+            "Active Thread Count": 1
+        }
+    },
+    {
+        "algorithm": "MatrixMultiplicationThreads",
+        "matrix_size": 1024,
+        "threads": 2,
+        "execution_time_ms": 420497.21580010373,
+        "system_info": {
+            "Operating System": "Windows 11",
+            "Version": "10.0.22631",
+            "Architecture": "64bit",
+            "Available Processors": 16,
+            "Total Memory (MB)": 32389,
+            "Free Memory (MB)": 18584,
+            "Active Thread Count": 1
+        }
+    },
+    {
+        "algorithm": "SychorizedMatrixMultiplication",
+        "matrix_size": 1024,
+        "threads": 2,
+        "execution_time_ms": 296899.29249999113,
+        "system_info": {
+            "Operating System": "Windows 11",
+            "Version": "10.0.22631",
+            "Architecture": "64bit",
+            "Available Processors": 16,
+            "Total Memory (MB)": 32389,
+            "Free Memory (MB)": 18300,
+            "Active Thread Count": 1
+        }
+    },
+    {
+        "algorithm": "ParallelMatrixMultiplicationOpenMP",
+        "matrix_size": 1024,
+        "threads": 2,
+        "execution_time_ms": 290287.01740002725,
+        "system_info": {
+            "Operating System": "Windows 11",
+            "Version": "10.0.22631",
+            "Architecture": "64bit",
+            "Available Processors": 16,
+            "Total Memory (MB)": 32389,
+            "Free Memory (MB)": 18194,
+            "Active Thread Count": 1
+        }
+    },
+    {
+        "algorithm": "ExecutorMatrixMultiplication",
+        "matrix_size": 1024,
+        "threads": 2,
+        "execution_time_ms": 2394.081400008872,
+        "system_info": {
+            "Operating System": "Windows 11",
+            "Version": "10.0.22631",
+            "Architecture": "64bit",
+            "Available Processors": 16,
+            "Total Memory (MB)": 32389,
+            "Free Memory (MB)": 18198,
+            "Active Thread Count": 1
+        }
+    },
+    {
+        "algorithm": "FixedThreadsMatrixMultiplication",
+        "matrix_size": 1024,
+        "threads": 4,
+        "execution_time_ms": 432487.6037000213,
+        "system_info": {
+            "Operating System": "Windows 11",
+            "Version": "10.0.22631",
+            "Architecture": "64bit",
+            "Available Processors": 16,
+            "Total Memory (MB)": 32389,
+            "Free Memory (MB)": 18199,
+            "Active Thread Count": 1
+        }
+    },
+    {
+        "algorithm": "MatrixMultiplicationThreads",
+        "matrix_size": 1024,
+        "threads": 4,
+        "execution_time_ms": 421807.018600055,
+        "system_info": {
+            "Operating System": "Windows 11",
+            "Version": "10.0.22631",
+            "Architecture": "64bit",
+            "Available Processors": 16,
+            "Total Memory (MB)": 32389,
+            "Free Memory (MB)": 18255,
+            "Active Thread Count": 1
+        }
+    },
+    {
+        "algorithm": "SychorizedMatrixMultiplication",
+        "matrix_size": 1024,
+        "threads": 4,
+        "execution_time_ms": 293178.56909998227,
+        "system_info": {
+            "Operating System": "Windows 11",
+            "Version": "10.0.22631",
+            "Architecture": "64bit",
+            "Available Processors": 16,
+            "Total Memory (MB)": 32389,
+            "Free Memory (MB)": 18206,
+            "Active Thread Count": 1
+        }
+    },
+    {
+        "algorithm": "ParallelMatrixMultiplicationOpenMP",
+        "matrix_size": 1024,
+        "threads": 4,
+        "execution_time_ms": 288924.9588000821,
+        "system_info": {
+            "Operating System": "Windows 11",
+            "Version": "10.0.22631",
+            "Architecture": "64bit",
+            "Available Processors": 16,
+            "Total Memory (MB)": 32389,
+            "Free Memory (MB)": 18181,
+            "Active Thread Count": 1
+        }
+    },
+    {
+        "algorithm": "ExecutorMatrixMultiplication",
+        "matrix_size": 1024,
+        "threads": 4,
+        "execution_time_ms": 5512.4359000474215,
+        "system_info": {
+            "Operating System": "Windows 11",
+            "Version": "10.0.22631",
+            "Architecture": "64bit",
+            "Available Processors": 16,
+            "Total Memory (MB)": 32389,
+            "Free Memory (MB)": 18620,
+            "Active Thread Count": 1
+        }
+    },
+    {
+        "algorithm": "FixedThreadsMatrixMultiplication",
+        "matrix_size": 1024,
+        "threads": 8,
+        "execution_time_ms": 432302.91560001206,
+        "system_info": {
+            "Operating System": "Windows 11",
+            "Version": "10.0.22631",
+            "Architecture": "64bit",
+            "Available Processors": 16,
+            "Total Memory (MB)": 32389,
+            "Free Memory (MB)": 18621,
+            "Active Thread Count": 1
+        }
+    },
+    {
+        "algorithm": "MatrixMultiplicationThreads",
+        "matrix_size": 1024,
+        "threads": 8,
+        "execution_time_ms": 436339.9241999723,
+        "system_info": {
+            "Operating System": "Windows 11",
+            "Version": "10.0.22631",
+            "Architecture": "64bit",
+            "Available Processors": 16,
+            "Total Memory (MB)": 32389,
+            "Free Memory (MB)": 18547,
+            "Active Thread Count": 1
+        }
+    },
+    {
+        "algorithm": "SychorizedMatrixMultiplication",
+        "matrix_size": 1024,
+        "threads": 8,
+        "execution_time_ms": 302374.75620000623,
+        "system_info": {
+            "Operating System": "Windows 11",
+            "Version": "10.0.22631",
+            "Architecture": "64bit",
+            "Available Processors": 16,
+            "Total Memory (MB)": 32389,
+            "Free Memory (MB)": 18610,
+            "Active Thread Count": 1
+        }
+    },
+    {
+        "algorithm": "ParallelMatrixMultiplicationOpenMP",
+        "matrix_size": 1024,
+        "threads": 8,
+        "execution_time_ms": 293778.3072999446,
+        "system_info": {
+            "Operating System": "Windows 11",
+            "Version": "10.0.22631",
+            "Architecture": "64bit",
+            "Available Processors": 16,
+            "Total Memory (MB)": 32389,
+            "Free Memory (MB)": 18630,
+            "Active Thread Count": 1
+        }
+    },
+    {
+        "algorithm": "ExecutorMatrixMultiplication",
+        "matrix_size": 1024,
+        "threads": 8,
+        "execution_time_ms": 5736.4436000352725,
+        "system_info": {
+            "Operating System": "Windows 11",
+            "Version": "10.0.22631",
+            "Architecture": "64bit",
+            "Available Processors": 16,
+            "Total Memory (MB)": 32389,
+            "Free Memory (MB)": 18595,
+            "Active Thread Count": 1
+        }
+    },
+    {
+        "algorithm": "FixedThreadsMatrixMultiplication",
+        "matrix_size": 1024,
+        "threads": 16,
+        "execution_time_ms": 483692.7654000465,
+        "system_info": {
+            "Operating System": "Windows 11",
+            "Version": "10.0.22631",
+            "Architecture": "64bit",
+            "Available Processors": 16,
+            "Total Memory (MB)": 32389,
+            "Free Memory (MB)": 18597,
+            "Active Thread Count": 1
+        }
+    },
+    {
+        "algorithm": "MatrixMultiplicationThreads",
+        "matrix_size": 1024,
+        "threads": 16,
+        "execution_time_ms": 913714.6420000354,
+        "system_info": {
+            "Operating System": "Windows 11",
+            "Version": "10.0.22631",
+            "Architecture": "64bit",
+            "Available Processors": 16,
+            "Total Memory (MB)": 32389,
+            "Free Memory (MB)": 16792,
+            "Active Thread Count": 1
+        }
+    },
+    {
+        "algorithm": "SychorizedMatrixMultiplication",
+        "matrix_size": 1024,
+        "threads": 16,
+        "execution_time_ms": 302304.1709000245,
+        "system_info": {
+            "Operating System": "Windows 11",
+            "Version": "10.0.22631",
+            "Architecture": "64bit",
+            "Available Processors": 16,
+            "Total Memory (MB)": 32389,
+            "Free Memory (MB)": 16485,
+            "Active Thread Count": 1
+        }
+    },
+    {
+        "algorithm": "ParallelMatrixMultiplicationOpenMP",
+        "matrix_size": 1024,
+        "threads": 16,
+        "execution_time_ms": 301601.0735000018,
+        "system_info": {
+            "Operating System": "Windows 11",
+            "Version": "10.0.22631",
+            "Architecture": "64bit",
+            "Available Processors": 16,
+            "Total Memory (MB)": 32389,
+            "Free Memory (MB)": 16628,
+            "Active Thread Count": 1
+        }
+    },
+    {
+        "algorithm": "ExecutorMatrixMultiplication",
+        "matrix_size": 1024,
+        "threads": 16,
+        "execution_time_ms": 5519.937100005336,
+        "system_info": {
+            "Operating System": "Windows 11",
+            "Version": "10.0.22631",
+            "Architecture": "64bit",
+            "Available Processors": 16,
+            "Total Memory (MB)": 32389,
+            "Free Memory (MB)": 16569,
+            "Active Thread Count": 1
+        }
+    }
+]

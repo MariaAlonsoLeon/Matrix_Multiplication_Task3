@@ -1,0 +1,422 @@
+[
+    {
+        "algorithm": "BasicMatrixMultiplication",
+        "matrix_size": 64,
+        "execution_time_ms": 124.92319999728352,
+        "system_info": {
+            "Operating System": "Windows 11",
+            "Version": "10.0.22631",
+            "Architecture": "64bit",
+            "Available Processors": 16,
+            "Total Memory (MB)": 32389,
+            "Free Memory (MB)": 16549,
+            "Active Thread Count": 1
+        }
+    },
+    {
+        "algorithm": "VectorizedMatrixMultiplicationSIMD",
+        "matrix_size": 64,
+        "execution_time_ms": 7.5391000136733055,
+        "system_info": {
+            "Operating System": "Windows 11",
+            "Version": "10.0.22631",
+            "Architecture": "64bit",
+            "Available Processors": 16,
+            "Total Memory (MB)": 32389,
+            "Free Memory (MB)": 16573,
+            "Active Thread Count": 1
+        }
+    },
+    {
+        "algorithm": "OptimizedVectorizedMatrixMultiplication",
+        "matrix_size": 64,
+        "execution_time_ms": 581.7395000485703,
+        "system_info": {
+            "Operating System": "Windows 11",
+            "Version": "10.0.22631",
+            "Architecture": "64bit",
+            "Available Processors": 16,
+            "Total Memory (MB)": 32389,
+            "Free Memory (MB)": 16571,
+            "Active Thread Count": 1
+        }
+    },
+    {
+        "algorithm": "CudaMatrixMultiplication",
+        "matrix_size": 64,
+        "execution_time_ms": 206.9461999926716,
+        "system_info": {
+            "Operating System": "Windows 11",
+            "Version": "10.0.22631",
+            "Architecture": "64bit",
+            "Available Processors": 16,
+            "Total Memory (MB)": 32389,
+            "Free Memory (MB)": 16533,
+            "Active Thread Count": 1
+        }
+    },
+    {
+        "algorithm": "StreamMatrixMultiplication",
+        "matrix_size": 64,
+        "execution_time_ms": 92.49870001804084,
+        "system_info": {
+            "Operating System": "Windows 11",
+            "Version": "10.0.22631",
+            "Architecture": "64bit",
+            "Available Processors": 16,
+            "Total Memory (MB)": 32389,
+            "Free Memory (MB)": 16424,
+            "Active Thread Count": 1
+        }
+    },
+    {
+        "algorithm": "AtomicMatrixMultiplication",
+        "matrix_size": 64,
+        "execution_time_ms": 122.15379998087883,
+        "system_info": {
+            "Operating System": "Windows 11",
+            "Version": "10.0.22631",
+            "Architecture": "64bit",
+            "Available Processors": 16,
+            "Total Memory (MB)": 32389,
+            "Free Memory (MB)": 16422,
+            "Active Thread Count": 1
+        }
+    },
+    {
+        "algorithm": "BasicMatrixMultiplication",
+        "matrix_size": 128,
+        "execution_time_ms": 961.8473999435082,
+        "system_info": {
+            "Operating System": "Windows 11",
+            "Version": "10.0.22631",
+            "Architecture": "64bit",
+            "Available Processors": 16,
+            "Total Memory (MB)": 32389,
+            "Free Memory (MB)": 16422,
+            "Active Thread Count": 1
+        }
+    },
+    {
+        "algorithm": "VectorizedMatrixMultiplicationSIMD",
+        "matrix_size": 128,
+        "execution_time_ms": 0.8417000062763691,
+        "system_info": {
+            "Operating System": "Windows 11",
+            "Version": "10.0.22631",
+            "Architecture": "64bit",
+            "Available Processors": 16,
+            "Total Memory (MB)": 32389,
+            "Free Memory (MB)": 16424,
+            "Active Thread Count": 1
+        }
+    },
+    {
+        "algorithm": "OptimizedVectorizedMatrixMultiplication",
+        "matrix_size": 128,
+        "execution_time_ms": 3.813600051216781,
+        "system_info": {
+            "Operating System": "Windows 11",
+            "Version": "10.0.22631",
+            "Architecture": "64bit",
+            "Available Processors": 16,
+            "Total Memory (MB)": 32389,
+            "Free Memory (MB)": 16424,
+            "Active Thread Count": 1
+        }
+    },
+    {
+        "algorithm": "CudaMatrixMultiplication",
+        "matrix_size": 128,
+        "execution_time_ms": 1.5356999356299639,
+        "system_info": {
+            "Operating System": "Windows 11",
+            "Version": "10.0.22631",
+            "Architecture": "64bit",
+            "Available Processors": 16,
+            "Total Memory (MB)": 32389,
+            "Free Memory (MB)": 16424,
+            "Active Thread Count": 1
+        }
+    },
+    {
+        "algorithm": "StreamMatrixMultiplication",
+        "matrix_size": 128,
+        "execution_time_ms": 694.2443000152707,
+        "system_info": {
+            "Operating System": "Windows 11",
+            "Version": "10.0.22631",
+            "Architecture": "64bit",
+            "Available Processors": 16,
+            "Total Memory (MB)": 32389,
+            "Free Memory (MB)": 16424,
+            "Active Thread Count": 1
+        }
+    },
+    {
+        "algorithm": "AtomicMatrixMultiplication",
+        "matrix_size": 128,
+        "execution_time_ms": 948.6879999749362,
+        "system_info": {
+            "Operating System": "Windows 11",
+            "Version": "10.0.22631",
+            "Architecture": "64bit",
+            "Available Processors": 16,
+            "Total Memory (MB)": 32389,
+            "Free Memory (MB)": 16422,
+            "Active Thread Count": 1
+        }
+    },
+    {
+        "algorithm": "BasicMatrixMultiplication",
+        "matrix_size": 256,
+        "execution_time_ms": 7605.626499978825,
+        "system_info": {
+            "Operating System": "Windows 11",
+            "Version": "10.0.22631",
+            "Architecture": "64bit",
+            "Available Processors": 16,
+            "Total Memory (MB)": 32389,
+            "Free Memory (MB)": 16424,
+            "Active Thread Count": 1
+        }
+    },
+    {
+        "algorithm": "VectorizedMatrixMultiplicationSIMD",
+        "matrix_size": 256,
+        "execution_time_ms": 3.0595000134781003,
+        "system_info": {
+            "Operating System": "Windows 11",
+            "Version": "10.0.22631",
+            "Architecture": "64bit",
+            "Available Processors": 16,
+            "Total Memory (MB)": 32389,
+            "Free Memory (MB)": 16439,
+            "Active Thread Count": 1
+        }
+    },
+    {
+        "algorithm": "OptimizedVectorizedMatrixMultiplication",
+        "matrix_size": 256,
+        "execution_time_ms": 16.832799999974668,
+        "system_info": {
+            "Operating System": "Windows 11",
+            "Version": "10.0.22631",
+            "Architecture": "64bit",
+            "Available Processors": 16,
+            "Total Memory (MB)": 32389,
+            "Free Memory (MB)": 16439,
+            "Active Thread Count": 1
+        }
+    },
+    {
+        "algorithm": "CudaMatrixMultiplication",
+        "matrix_size": 256,
+        "execution_time_ms": 4.5964999590069056,
+        "system_info": {
+            "Operating System": "Windows 11",
+            "Version": "10.0.22631",
+            "Architecture": "64bit",
+            "Available Processors": 16,
+            "Total Memory (MB)": 32389,
+            "Free Memory (MB)": 16439,
+            "Active Thread Count": 1
+        }
+    },
+    {
+        "algorithm": "StreamMatrixMultiplication",
+        "matrix_size": 256,
+        "execution_time_ms": 5177.740399958566,
+        "system_info": {
+            "Operating System": "Windows 11",
+            "Version": "10.0.22631",
+            "Architecture": "64bit",
+            "Available Processors": 16,
+            "Total Memory (MB)": 32389,
+            "Free Memory (MB)": 16439,
+            "Active Thread Count": 1
+        }
+    },
+    {
+        "algorithm": "AtomicMatrixMultiplication",
+        "matrix_size": 256,
+        "execution_time_ms": 7435.63990003895,
+        "system_info": {
+            "Operating System": "Windows 11",
+            "Version": "10.0.22631",
+            "Architecture": "64bit",
+            "Available Processors": 16,
+            "Total Memory (MB)": 32389,
+            "Free Memory (MB)": 16439,
+            "Active Thread Count": 1
+        }
+    },
+    {
+        "algorithm": "BasicMatrixMultiplication",
+        "matrix_size": 512,
+        "execution_time_ms": 58688.19949997123,
+        "system_info": {
+            "Operating System": "Windows 11",
+            "Version": "10.0.22631",
+            "Architecture": "64bit",
+            "Available Processors": 16,
+            "Total Memory (MB)": 32389,
+            "Free Memory (MB)": 16440,
+            "Active Thread Count": 1
+        }
+    },
+    {
+        "algorithm": "VectorizedMatrixMultiplicationSIMD",
+        "matrix_size": 512,
+        "execution_time_ms": 7.892400026321411,
+        "system_info": {
+            "Operating System": "Windows 11",
+            "Version": "10.0.22631",
+            "Architecture": "64bit",
+            "Available Processors": 16,
+            "Total Memory (MB)": 32389,
+            "Free Memory (MB)": 16396,
+            "Active Thread Count": 1
+        }
+    },
+    {
+        "algorithm": "OptimizedVectorizedMatrixMultiplication",
+        "matrix_size": 512,
+        "execution_time_ms": 102.21670009195805,
+        "system_info": {
+            "Operating System": "Windows 11",
+            "Version": "10.0.22631",
+            "Architecture": "64bit",
+            "Available Processors": 16,
+            "Total Memory (MB)": 32389,
+            "Free Memory (MB)": 16398,
+            "Active Thread Count": 1
+        }
+    },
+    {
+        "algorithm": "CudaMatrixMultiplication",
+        "matrix_size": 512,
+        "execution_time_ms": 24.23879993148148,
+        "system_info": {
+            "Operating System": "Windows 11",
+            "Version": "10.0.22631",
+            "Architecture": "64bit",
+            "Available Processors": 16,
+            "Total Memory (MB)": 32389,
+            "Free Memory (MB)": 16395,
+            "Active Thread Count": 1
+        }
+    },
+    {
+        "algorithm": "StreamMatrixMultiplication",
+        "matrix_size": 512,
+        "execution_time_ms": 42504.047799971886,
+        "system_info": {
+            "Operating System": "Windows 11",
+            "Version": "10.0.22631",
+            "Architecture": "64bit",
+            "Available Processors": 16,
+            "Total Memory (MB)": 32389,
+            "Free Memory (MB)": 16396,
+            "Active Thread Count": 1
+        }
+    },
+    {
+        "algorithm": "AtomicMatrixMultiplication",
+        "matrix_size": 512,
+        "execution_time_ms": 58391.99120004196,
+        "system_info": {
+            "Operating System": "Windows 11",
+            "Version": "10.0.22631",
+            "Architecture": "64bit",
+            "Available Processors": 16,
+            "Total Memory (MB)": 32389,
+            "Free Memory (MB)": 16291,
+            "Active Thread Count": 1
+        }
+    },
+    {
+        "algorithm": "BasicMatrixMultiplication",
+        "matrix_size": 1024,
+        "execution_time_ms": 495053.6587999668,
+        "system_info": {
+            "Operating System": "Windows 11",
+            "Version": "10.0.22631",
+            "Architecture": "64bit",
+            "Available Processors": 16,
+            "Total Memory (MB)": 32389,
+            "Free Memory (MB)": 16347,
+            "Active Thread Count": 1
+        }
+    },
+    {
+        "algorithm": "VectorizedMatrixMultiplicationSIMD",
+        "matrix_size": 1024,
+        "execution_time_ms": 37.997900042682886,
+        "system_info": {
+            "Operating System": "Windows 11",
+            "Version": "10.0.22631",
+            "Architecture": "64bit",
+            "Available Processors": 16,
+            "Total Memory (MB)": 32389,
+            "Free Memory (MB)": 16827,
+            "Active Thread Count": 1
+        }
+    },
+    {
+        "algorithm": "OptimizedVectorizedMatrixMultiplication",
+        "matrix_size": 1024,
+        "execution_time_ms": 2708.1332999514416,
+        "system_info": {
+            "Operating System": "Windows 11",
+            "Version": "10.0.22631",
+            "Architecture": "64bit",
+            "Available Processors": 16,
+            "Total Memory (MB)": 32389,
+            "Free Memory (MB)": 16833,
+            "Active Thread Count": 1
+        }
+    },
+    {
+        "algorithm": "CudaMatrixMultiplication",
+        "matrix_size": 1024,
+        "execution_time_ms": 1600.5181999644265,
+        "system_info": {
+            "Operating System": "Windows 11",
+            "Version": "10.0.22631",
+            "Architecture": "64bit",
+            "Available Processors": 16,
+            "Total Memory (MB)": 32389,
+            "Free Memory (MB)": 16824,
+            "Active Thread Count": 1
+        }
+    },
+    {
+        "algorithm": "StreamMatrixMultiplication",
+        "matrix_size": 1024,
+        "execution_time_ms": 566024.2741999682,
+        "system_info": {
+            "Operating System": "Windows 11",
+            "Version": "10.0.22631",
+            "Architecture": "64bit",
+            "Available Processors": 16,
+            "Total Memory (MB)": 32389,
+            "Free Memory (MB)": 16767,
+            "Active Thread Count": 1
+        }
+    },
+    {
+        "algorithm": "AtomicMatrixMultiplication",
+        "matrix_size": 1024,
+        "execution_time_ms": 526186.2217000453,
+        "system_info": {
+            "Operating System": "Windows 11",
+            "Version": "10.0.22631",
+            "Architecture": "64bit",
+            "Available Processors": 16,
+            "Total Memory (MB)": 32389,
+            "Free Memory (MB)": 16475,
+            "Active Thread Count": 1
+        }
+    }
+]
